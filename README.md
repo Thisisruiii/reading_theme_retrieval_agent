@@ -2,7 +2,9 @@
 
 Reading Theme Retrieval Agent is a simple command-line AI agent for an Information Retrieval lab. It retrieves relevant context from local reading notes, a theme guide, recommendation rules, and user memory before asking an OpenAI-compatible LLM to answer.
 
-The project uses women's literature as a thematic reading taxonomy. The goal is to demonstrate retrieval and agent architecture, not to build a political discussion bot.
+The project uses women's literature as a thematic reading taxonomy. The goal is to demonstrate retrieval and agent architecture.
+
+The video demo of working system :https://1drv.ms/v/c/6b679df81c78177f/IQD1VU5GqpE8TJKHlEDxv3e4AVWv4g_EGvOXbg1bH6SgU38?e=wrgTJz
 
 ## Why this is an AI agent
 
