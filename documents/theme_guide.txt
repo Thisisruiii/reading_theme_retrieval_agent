@@ -1,0 +1,37 @@
+friendship: Relationships between friends, including support, jealousy, trust, conflict, and emotional growth.
+
+sisterhood: Bonds between sisters or women who support each other like sisters. This theme often includes solidarity, care, and shared survival.
+
+family: Relationships inside families, including duty, conflict, love, pressure, and responsibility.
+
+mother-daughter relationship: The emotional and social relationship between mothers and daughters, including misunderstanding, care, inheritance, and reconciliation.
+
+marriage: Stories about married life, romantic partnership, domestic labor, social duty, and the limits or support created by marriage.
+
+motherhood: Experiences of being a mother or being shaped by ideas about mothers, including care, sacrifice, pressure, and identity.
+
+work and career: Jobs, professional ambition, workplace inequality, labor, and the conflict between paid work and private life.
+
+money and independence: How economic resources affect freedom, safety, education, and the ability to make choices.
+
+education: Learning, school, intellectual growth, and access to knowledge.
+
+writing and creativity: Creative expression, authorship, storytelling, letters, art, and the need for space to create.
+
+girlhood: Childhood and teenage experiences, especially how girls learn social rules, friendship, shame, ambition, or fear.
+
+memory: Remembering the past, family history, trauma, nostalgia, and how memories shape identity.
+
+violence: Physical, emotional, social, or institutional harm. This theme should be handled carefully and based on retrieved notes.
+
+healing: Recovery after pain, conflict, or trauma. Healing can come through relationships, memory, creativity, or independence.
+
+freedom: The ability to choose one's life, body, work, relationships, and identity.
+
+social expectations: Rules that society places on people, such as how women should behave, marry, work, care, or remain silent.
+
+gender norms: Ideas about what women and men are expected to be. This theme is useful for comparing books that question those expectations.
+
+identity: A person's sense of self, including name, voice, role, body, family background, and social position.
+
+survival: Continuing to live and protect the self under difficult conditions, including violence, poverty, isolation, or social control.
